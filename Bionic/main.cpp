@@ -1,9 +1,8 @@
 #include <iostream>
 
-using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    std::cout << "bionic arm version 1.0.0.1" << std::endl;
     return 0;
 }
